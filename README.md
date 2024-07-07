@@ -13,6 +13,9 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
+    <img src="https://imarticus.org/blog/wp-content/uploads/2021/12/bwgg.gif" alt="angular" width=300" height="200"/>
+  </a>
+  <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -73,7 +76,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
   </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="https://i.gifer.com/7LIp.gif" alt="python" width="40" height="40"/>
   </a>
   <a href="https://redis.io" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/>
