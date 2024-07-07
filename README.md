@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SwiftSoft-Bahadur</h1>
+<h1 align="center">Hi 👋, I'm Bahadur Bahadur Khan</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
 ---
